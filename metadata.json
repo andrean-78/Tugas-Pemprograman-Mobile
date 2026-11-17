@@ -1,0 +1,6 @@
+{
+  "name": "SiFasKampus — Sistem Pelaporan Fasilitas Kampus",
+  "description": "Platform terpadu pelaporan kerusakan fasilitas kampus berbasis QR aset, pelacakan status tiket, verifikasi admin sarpras, serta rangkuman eksekutif dan prioritas penanganan berbasis Google Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
